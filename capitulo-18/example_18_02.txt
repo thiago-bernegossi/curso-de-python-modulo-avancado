@@ -1,0 +1,30 @@
+10336;Apontador Metálico para Lápis;4.60;87
+11415;Bloco Adesivo com 3 Cores;9.85;43
+10512;Caneta Marca Texto Amarela Caixa com 12 Unidades;23.20;142
+10513;Caneta Marca Texto Rosa Caixa com 12 Unidades;23.20;28
+10514;Caneta Marca Texto Verde Caixa com 12 Unidades;23.20;36
+12184;Caderno Espiral Grande 96 Folhas;21.35;135
+12188;Caderno Espiral Grande 384 Folhas;97.38;91
+12253;Caderno Livro Ata Capa Dura 96 Folhas;29.90;29
+14517;Borracha Escolar;3.75;412
+11103;Grafite HB 0.5 2 Tubos com 12 Unidades;8.79;73
+11101;Grafite 2B 0.5 2 Tubos com 12 Unidades;9.40;38
+11096;Grafite HB 0.7 2 Tubos com 12 Unidades;11.30;45
+14102;Régua (Plástica) 30 Centímetros;2.55;84
+14108;Régua (Acrílica) 30 Centímetros;18.73;26
+14223;Escalímetro Triangular 30 Centímetros com Estojo;31.50;18
+15330;Bloco de Desenho (Canson) A4 50 Folhas;16.80;49
+15332;Bloco de Desenho (Canson) A3 50 Folhas;31.40;53
+15630;Bloco Milimetrado (Sulfite) A4 50 Folhas;9.40;30
+15622;Bloco Milimetrado (Canson) A4 50 Folhas;16.23;64
+14580;Cola Branca PVA 500 Gramas;32.55;86
+14556;Cola Bastão Pequena;16.32;105
+14560;Cola Bastão Grande;28.10;34
+14578;Cola Branca Lavável 90 Gramas;15.22;84
+10090;Pasta Aba com Elástico (Cartão);4.60;212
+10088;Pasta Aba com Elástico (Plástica);8.41;73
+10093;Pasta com Grampo (Cartão);5.10;97
+10095;Pasta Suspensa Arquivo com 10 Unidades;21.90;37
+11480;Envelope Saco Kraft Pacote 50 Unidades;26.12;184
+11483;Envelope Saco Branco Pacote 50 Unidades;28.40;52
+11470;Envelope Ofício Branco Pacote 100 Unidades;24.70;81
